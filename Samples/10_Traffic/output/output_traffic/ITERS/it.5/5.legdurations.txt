@@ -1,0 +1,20 @@
+pattern	0+	5+	10+	15+	20+	25+	30+	35+	40+	45+	50+	55+	60+
+home---leisure	8	0	0	0	0	0	0	0	0	0	0	0	0
+home---shopping	8	0	0	0	0	0	0	0	0	0	0	0	0
+home---study	115	2	0	0	0	0	0	0	0	0	0	0	0
+home---work	557	7	0	0	0	0	0	0	0	0	0	0	0
+leisure---home	100	2	0	0	0	0	0	0	0	0	0	0	0
+leisure---shopping	3	0	0	0	0	0	0	0	0	0	0	0	0
+leisure---study	2	0	0	0	0	0	0	0	0	0	0	0	0
+shopping---home	160	3	0	0	0	0	0	0	0	0	0	0	0
+shopping---study	1	0	0	0	0	0	0	0	0	0	0	0	0
+study---home	245	5	0	0	0	0	0	0	0	0	0	0	0
+study---leisure	2	0	0	0	0	0	0	0	0	0	0	0	0
+study---shopping	1	0	0	0	0	0	0	0	0	0	0	0	0
+study---work	48	0	0	0	0	0	0	0	0	0	0	0	0
+work---home	125	1	0	0	0	0	0	0	0	0	0	0	0
+work---leisure	100	0	0	0	0	0	0	0	0	0	0	0	0
+work---shopping	148	4	0	0	0	0	0	0	0	0	0	0	0
+work---study	175	6	0	0	0	0	0	0	0	0	0	0	0
+
+average trip duration: 160.47592997811816 seconds = 00:02:40
